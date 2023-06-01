@@ -1,0 +1,9 @@
+.App {
+  min-height: 100vh;
+  background-image: linear-gradient(
+      103.24deg,
+      rgba(0, 8, 29, 0.9) 23.83%,
+      rgba(0, 8, 29, 0.3) 96.1%
+    ),
+    url(https://assets.nflxext.com/ffe/siteui/vlv3/70805ddd-f38c-4e25-94cd-b5015e444ee0/dfb88503-6755-43aa-bdc0-1b119e2b5a20/PK-en-20230508-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+}

@@ -1,0 +1,17 @@
+.text-box {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 40%;
+  margin: auto;
+  margin-left: 78px;
+}
+.bold {
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+.simple {
+  font-weight: 400;
+  font-size: 1rem;
+}

@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 12px;
+}
+
+.SignUp {
+  color: black;
+  background: #e50914;
+  padding: 10px;
+  color: white;
+  font-weight: bold;
+  border-radius: 0.25rem;
+}
+
+.button-box {
+  margin-right: 30px;
+}

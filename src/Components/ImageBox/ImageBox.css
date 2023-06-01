@@ -1,0 +1,9 @@
+.pic {
+  width: 70%;
+  position: relative;
+  left: 25%;
+  -webkit-transform: translate(-25%, 0%);
+  -moz-transform: translate(-25%, 0%);
+  -ms-transform: translate(-25%, 0%);
+  transform: translate(-15%, 0%);
+}

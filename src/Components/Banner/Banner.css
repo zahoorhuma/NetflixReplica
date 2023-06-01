@@ -1,0 +1,52 @@
+.main {
+  /* background: pink; */
+  /* min-height: 50vh; */
+  font-weight: 900;
+  font-size: 4rem;
+  width: 61%;
+  color: white;
+  padding: 72px 0px 10px 133px;
+}
+
+.main-text {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  font-weight: 400;
+  font-size: 20px;
+  gap: 40px;
+  margin-bottom: 20px;
+}
+
+.input-button {
+  display: flex;
+  flex-direction: row;
+}
+
+.input-field {
+  width: 46%;
+  display: flex;
+  align-items: center;
+}
+
+.button-field {
+  display: flex;
+  align-items: center;
+}
+.input-box {
+  padding: 17px 1rem 17px;
+  background: transparent;
+  width: 80%;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.started-button {
+  background: rgb(229, 9, 20);
+  color: white;
+  padding: 0.75rem 1.5rem;
+  font-weight: 600;
+  font-size: 1.5rem;
+  border: 0px;
+  border-radius: 0.25rem;
+}

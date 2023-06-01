@@ -1,0 +1,26 @@
+.main-content {
+  background: linear-gradient(
+    333.08deg,
+    #000235 29.2%,
+    #010f42 71.93%,
+    #e40913 111.25%
+  );
+  width: 92%;
+  margin: auto;
+  border-radius: 8px;
+  color: white;
+  padding: 2.75rem 0;
+  margin-top: 75px;
+}
+
+.container {
+  display: flex;
+  /* background: pink; */
+}
+
+.emptyDiv {
+  min-height: 10px;
+  background: black;
+  width: 90%;
+  margin: auto;
+}
